@@ -1,0 +1,15 @@
+{
+  "author": "Irfan Bozkurt",
+  "name": "dao",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "npm": "^9.2.0",
+    "solc": "^0.8.19"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1"
+  }
+}
